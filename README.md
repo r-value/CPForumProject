@@ -1,4 +1,4 @@
-**以下是本Project的企划内容, 正在编辑中**
+**以下是本Project的企划内容, 由于一些基本假设在现实中不可行已被废案**
 
 # A Project about Building a Forum about Competitive Programming
 
